@@ -41,7 +41,6 @@
 - Divider: `hr`
 - Iframe: `iframe`
 
-
 5. Table
 
 - `table`
@@ -136,12 +135,12 @@ h1 {
 5. Display
 6. Flex
 7. List
-==============
 8. Units
 9. Pseudo-class
 10. Overflow
 11. Position
 12. Table
+==============
 13. Form
 14. Icon
 15. Background image
